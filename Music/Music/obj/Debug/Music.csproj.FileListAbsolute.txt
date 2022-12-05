@@ -1,0 +1,99 @@
+c:\users\xiaoshixin\documents\visual studio 2015\Projects\Music\Music\bin\Debug\Music.exe.config
+c:\users\xiaoshixin\documents\visual studio 2015\Projects\Music\Music\obj\Debug\Interop.WbemScripting.dll
+c:\users\xiaoshixin\documents\visual studio 2015\Projects\Music\Music\obj\Debug\Interop.WMPLib.dll
+c:\users\xiaoshixin\documents\visual studio 2015\Projects\Music\Music\obj\Debug\AxInterop.WMPLib.dll
+c:\users\xiaoshixin\documents\visual studio 2015\Projects\Music\Music\obj\Debug\Music.csproj.ResolveComReference.cache
+c:\users\xiaoshixin\documents\visual studio 2015\Projects\Music\Music\obj\Debug\Music.Forms.Form1.resources
+c:\users\xiaoshixin\documents\visual studio 2015\Projects\Music\Music\obj\Debug\Music.Properties.Resources.resources
+c:\users\xiaoshixin\documents\visual studio 2015\Projects\Music\Music\obj\Debug\Music.csproj.GenerateResource.Cache
+c:\users\xiaoshixin\documents\visual studio 2015\Projects\Music\Music\bin\Debug\Music.exe
+c:\users\xiaoshixin\documents\visual studio 2015\Projects\Music\Music\bin\Debug\Music.pdb
+c:\users\xiaoshixin\documents\visual studio 2015\Projects\Music\Music\bin\Debug\SunnyUI.dll
+c:\users\xiaoshixin\documents\visual studio 2015\Projects\Music\Music\bin\Debug\SunnyUI.Common.dll
+c:\users\xiaoshixin\documents\visual studio 2015\Projects\Music\Music\bin\Debug\Interop.WMPLib.dll
+c:\users\xiaoshixin\documents\visual studio 2015\Projects\Music\Music\bin\Debug\AxInterop.WMPLib.dll
+c:\users\xiaoshixin\documents\visual studio 2015\Projects\Music\Music\obj\Debug\Music.exe
+c:\users\xiaoshixin\documents\visual studio 2015\Projects\Music\Music\obj\Debug\Music.pdb
+C:\Users\ShiXi\Desktop\Music\Music\bin\Debug\Music.exe.config
+C:\Users\ShiXi\Desktop\Music\Music\bin\Debug\Music.exe
+C:\Users\ShiXi\Desktop\Music\Music\bin\Debug\Music.pdb
+C:\Users\ShiXi\Desktop\Music\Music\bin\Debug\Interop.WMPLib.dll
+C:\Users\ShiXi\Desktop\Music\Music\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ShiXi\Desktop\Music\Music\obj\Debug\Music.csproj.AssemblyReference.cache
+C:\Users\ShiXi\Desktop\Music\Music\obj\Debug\Music.csproj.SuggestedBindingRedirects.cache
+C:\Users\ShiXi\Desktop\Music\Music\obj\Debug\Interop.WbemScripting.dll
+C:\Users\ShiXi\Desktop\Music\Music\obj\Debug\Interop.WMPLib.dll
+C:\Users\ShiXi\Desktop\Music\Music\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ShiXi\Desktop\Music\Music\obj\Debug\Music.csproj.ResolveComReference.cache
+C:\Users\ShiXi\Desktop\Music\Music\obj\Debug\Music.Forms.Form1.resources
+C:\Users\ShiXi\Desktop\Music\Music\obj\Debug\Music.Properties.Resources.resources
+C:\Users\ShiXi\Desktop\Music\Music\obj\Debug\Music.csproj.GenerateResource.cache
+C:\Users\ShiXi\Desktop\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+C:\Users\ShiXi\Desktop\Music\Music\obj\Debug\Music.csproj.CopyComplete
+C:\Users\ShiXi\Desktop\Music\Music\obj\Debug\Music.exe
+C:\Users\ShiXi\Desktop\Music\Music\obj\Debug\Music.pdb
+C:\Users\ShiXi\Desktop\Music\Music\bin\Debug\en-SI\Music.resources.dll
+C:\Users\ShiXi\Desktop\Music\Music\obj\Debug\Music.Forms.Form1.en-SI.resources
+C:\Users\ShiXi\Desktop\Music\Music\obj\Debug\en-SI\Music.resources.dll
+C:\Users\XiaoShiXin\Documents\Visual Studio 2015\Projects\Music\Music\bin\Debug\en-SI\Music.resources.dll
+C:\Users\XiaoShiXin\Documents\Visual Studio 2015\Projects\Music\Music\obj\Debug\Music.Forms.Form1.en-SI.resources
+C:\Users\XiaoShiXin\Documents\Visual Studio 2015\Projects\Music\Music\obj\Debug\en-SI\Music.resources.dll
+C:\Users\XiaoShiXin\Documents\Visual Studio 2015\Projects\Music\Music\bin\Debug\Newtonsoft.Json.dll
+C:\Users\XiaoShiXin\Documents\Visual Studio 2015\Projects\Music\Music\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ShiXi\Desktop\Music\Music\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ShiXi\Desktop\Music\Music\bin\Debug\SunnyUI.Common.dll
+C:\Users\ShiXi\Desktop\Music\Music\bin\Debug\Newtonsoft.Json.xml
+C:\Users\XiaoShiXin\Documents\Visual Studio 2015\Projects\Music\Music\obj\Debug\Music.csprojResolveAssemblyReference.cache
+C:\Users\XiaoShiXin\Desktop\Music\Music\bin\Debug\Music.exe.config
+C:\Users\XiaoShiXin\Desktop\Music\Music\obj\Debug\Interop.WbemScripting.dll
+C:\Users\XiaoShiXin\Desktop\Music\Music\obj\Debug\Interop.WMPLib.dll
+C:\Users\XiaoShiXin\Desktop\Music\Music\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\XiaoShiXin\Desktop\Music\Music\obj\Debug\Music.csproj.ResolveComReference.cache
+C:\Users\XiaoShiXin\Desktop\Music\Music\obj\Debug\Music.exe
+C:\Users\XiaoShiXin\Desktop\Music\Music\obj\Debug\Music.pdb
+C:\Users\XiaoShiXin\Desktop\Music\Music\bin\Debug\Music.exe
+C:\Users\XiaoShiXin\Desktop\Music\Music\bin\Debug\Music.pdb
+C:\Users\XiaoShiXin\Desktop\Music\Music\bin\Debug\en-SI\Music.resources.dll
+C:\Users\XiaoShiXin\Desktop\Music\Music\bin\Debug\Newtonsoft.Json.dll
+C:\Users\XiaoShiXin\Desktop\Music\Music\bin\Debug\SunnyUI.dll
+C:\Users\XiaoShiXin\Desktop\Music\Music\bin\Debug\SunnyUI.Common.dll
+C:\Users\XiaoShiXin\Desktop\Music\Music\bin\Debug\Newtonsoft.Json.xml
+C:\Users\XiaoShiXin\Desktop\Music\Music\bin\Debug\Interop.WMPLib.dll
+C:\Users\XiaoShiXin\Desktop\Music\Music\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\XiaoShiXin\Desktop\Music\Music\obj\Debug\Music.Forms.Form1.resources
+C:\Users\XiaoShiXin\Desktop\Music\Music\obj\Debug\Music.Properties.Resources.resources
+C:\Users\XiaoShiXin\Desktop\Music\Music\obj\Debug\Music.Forms.Form1.en-SI.resources
+C:\Users\XiaoShiXin\Desktop\Music\Music\obj\Debug\Music.csproj.GenerateResource.Cache
+C:\Users\XiaoShiXin\Desktop\Music\Music\obj\Debug\en-SI\Music.resources.dll
+C:\Users\XiaoShiXin\Desktop\Music\Music\bin\Debug\Interop.Shell32.dll
+C:\Users\XiaoShiXin\Desktop\Music\Music\obj\Debug\Interop.Shell32.dll
+C:\Users\XiaoShiXin\Desktop\Music\Music\bin\Debug\DirectShowLib.dll
+C:\Users\XiaoShiXin\Desktop\Music\Music\bin\Debug\DirectShowLib.pdb
+E:\桌面文件\Music\Music\bin\Debug\Music.exe.config
+E:\桌面文件\Music\Music\obj\Debug\Interop.Shell32.dll
+E:\桌面文件\Music\Music\obj\Debug\Interop.WbemScripting.dll
+E:\桌面文件\Music\Music\obj\Debug\Interop.WMPLib.dll
+E:\桌面文件\Music\Music\obj\Debug\AxInterop.WMPLib.dll
+E:\桌面文件\Music\Music\obj\Debug\Music.csproj.ResolveComReference.cache
+E:\桌面文件\Music\Music\obj\Debug\Music.exe
+E:\桌面文件\Music\Music\obj\Debug\Music.pdb
+E:\桌面文件\Music\Music\bin\Debug\Music.exe
+E:\桌面文件\Music\Music\bin\Debug\Music.pdb
+E:\桌面文件\Music\Music\bin\Debug\en-SI\Music.resources.dll
+E:\桌面文件\Music\Music\bin\Debug\DirectShowLib.dll
+E:\桌面文件\Music\Music\bin\Debug\Newtonsoft.Json.dll
+E:\桌面文件\Music\Music\bin\Debug\SunnyUI.dll
+E:\桌面文件\Music\Music\bin\Debug\SunnyUI.Common.dll
+E:\桌面文件\Music\Music\bin\Debug\DirectShowLib.pdb
+E:\桌面文件\Music\Music\bin\Debug\Newtonsoft.Json.xml
+E:\桌面文件\Music\Music\bin\Debug\Interop.Shell32.dll
+E:\桌面文件\Music\Music\bin\Debug\Interop.WMPLib.dll
+E:\桌面文件\Music\Music\bin\Debug\AxInterop.WMPLib.dll
+E:\桌面文件\Music\Music\obj\Debug\Music.csprojAssemblyReference.cache
+E:\桌面文件\Music\Music\obj\Debug\Music.Forms.Form1.resources
+E:\桌面文件\Music\Music\obj\Debug\Music.Properties.Resources.resources
+E:\桌面文件\Music\Music\obj\Debug\Music.Forms.Form1.en-SI.resources
+E:\桌面文件\Music\Music\obj\Debug\Music.csproj.GenerateResource.cache
+E:\桌面文件\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+E:\桌面文件\Music\Music\obj\Debug\en-SI\Music.resources.dll
+E:\桌面文件\Music\Music\obj\Debug\Music.csproj.CopyComplete
