@@ -97,3 +97,11 @@ E:\桌面文件\Music\Music\obj\Debug\Music.csproj.GenerateResource.cache
 E:\桌面文件\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
 E:\桌面文件\Music\Music\obj\Debug\en-SI\Music.resources.dll
 E:\桌面文件\Music\Music\obj\Debug\Music.csproj.CopyComplete
+E:\MusicPlayerGit\Music\Music\bin\Debug\Music.exe.config
+E:\MusicPlayerGit\Music\Music\obj\Debug\Interop.Shell32.dll
+E:\MusicPlayerGit\Music\Music\obj\Debug\Interop.WbemScripting.dll
+E:\MusicPlayerGit\Music\Music\obj\Debug\Interop.WMPLib.dll
+E:\MusicPlayerGit\Music\Music\obj\Debug\AxInterop.WMPLib.dll
+E:\MusicPlayerGit\Music\Music\obj\Debug\Music.csproj.ResolveComReference.cache
+E:\MusicPlayerGit\Music\Music\obj\Debug\Music.exe
+E:\MusicPlayerGit\Music\Music\obj\Debug\Music.pdb
