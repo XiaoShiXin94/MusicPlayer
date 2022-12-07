@@ -951,6 +951,7 @@ namespace Music.Forms
             uiSymbolButton8.Visible = false;
             uiSymbolButton9.Visible = false;
             uiSymbolButton10.Visible = false;
+
         }
 
         public void PlayState(string state,bool isok)
