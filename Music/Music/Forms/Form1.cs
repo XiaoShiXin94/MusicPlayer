@@ -878,51 +878,51 @@ namespace Music.Forms
 
         private void axWindowsMediaPlayer1_StatusChange(object sender, EventArgs e)
         {
-            var li = slist.Where(j => j.songId == listBoxMusics.SelectedValue.ToString()).ToList();
-            switch ((int)axWindowsMediaPlayer1.playState)
-            {
-                case 1:
-                    UIMessageTip.Show("已停止");
-                    break;
-                case 2:
-                    UIMessageTip.Show("已暂停");
-                    break;
-                case 3:
-                    //UIMessageTip.Show("播放中");
-                    uiLabel6.Text = axWindowsMediaPlayer1.currentMedia.durationString.ToString();
-                    lbMusicName.Text = "正在播放：" + li[0].songName;
-                    break;
-                case 4:
-                    UIMessageTip.Show("向前搜索");
-                    break;
-                case 5:
-                    UIMessageTip.Show("向后搜索");
-                    break;
-                case 6:
-                    //UIMessageTip.Show("正在缓冲");
-                    lbMusicName.Text = "缓冲中....";
-                    break;
-                case 7:
-                    UIMessageTip.Show("正在等待流开始");
-                    break;
-                case 8:
-                    //UIMessageTip.Show("播放流已结束");
-                    lbMusicName.Text = "";
-                    uiLabel2.Text = "";
-                    btnPlay.Symbol = 61515;
-                    break;
-                case 9:
-                    lbMusicName.Text = "";
-                    //UIMessageTip.Show("正在连接");
-                    break;
-                case 10:
-                    lbMusicName.Text = "";
-                    //lbMusicName.Text = "准备就绪";
-                    trackBar1.Value = 0;
-                    break;
-                default:
-                    break;
-            }
+            //var li = slist.Where(j => j.songId == listBoxMusics.SelectedValue.ToString()).ToList();
+            //switch ((int)axWindowsMediaPlayer1.playState)
+            //{
+            //    case 1:
+            //        UIMessageTip.Show("已停止");
+            //        break;
+            //    case 2:
+            //        UIMessageTip.Show("已暂停");
+            //        break;
+            //    case 3:
+            //        //UIMessageTip.Show("播放中");
+            //        uiLabel6.Text = axWindowsMediaPlayer1.currentMedia.durationString.ToString();
+            //        lbMusicName.Text = "正在播放：" + li[0].songName;
+            //        break;
+            //    case 4:
+            //        UIMessageTip.Show("向前搜索");
+            //        break;
+            //    case 5:
+            //        UIMessageTip.Show("向后搜索");
+            //        break;
+            //    case 6:
+            //        //UIMessageTip.Show("正在缓冲");
+            //        lbMusicName.Text = "缓冲中....";
+            //        break;
+            //    case 7:
+            //        UIMessageTip.Show("正在等待流开始");
+            //        break;
+            //    case 8:
+            //        //UIMessageTip.Show("播放流已结束");
+            //        lbMusicName.Text = "";
+            //        uiLabel2.Text = "";
+            //        btnPlay.Symbol = 61515;
+            //        break;
+            //    case 9:
+            //        lbMusicName.Text = "";
+            //        //UIMessageTip.Show("正在连接");
+            //        break;
+            //    case 10:
+            //        lbMusicName.Text = "";
+            //        //lbMusicName.Text = "准备就绪";
+            //        trackBar1.Value = 0;
+            //        break;
+            //    default:
+            //        break;
+            //}
         }
 
         private void uiSymbolButton9_Click(object sender, EventArgs e)
